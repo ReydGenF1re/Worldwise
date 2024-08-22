@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "73930385",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      }
+    },
+    {
+      "id": "0ec8",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-06-23T12:48:25.357Z",
+      "notes": "",
+      "position": {
+        "lat": 55.81454671738988,
+        "lng": 37.63489265350714
+      }
+    }
+  ]
+}
